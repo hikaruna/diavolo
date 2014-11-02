@@ -1,0 +1,13 @@
+//depth, MapType, floorVisual, enemyID, enemyID, ...
+1,NORMAL,map015,1,5
+2,NORMAL,map015,147,1,5
+3,NORMAL,map019,93, 2, 147, 5
+4,NORMAL,map019,93, 3, 2, 147
+5,NORMAL,map019,51, 94, 93, 3
+6,NORMAL,map011,51, 94, 93, 3
+7,NORMAL,map011,7, 9, 51, 6, 94
+8,NORMAL,map011,52, 7, 9, 6
+9,NORMAL,map004,134, 52, 7, 9, 6
+10,NORMAL,map004,99, 13, 134, 141, 101, 52
+11,NORMAL,map004,99, 13, 134, 141, 101, 52
+12,NORMAL,map007,8, 24, 25

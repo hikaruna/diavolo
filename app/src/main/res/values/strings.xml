@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diavolo</string>
+    <string name="shoot">射撃</string>
+    <string name="item">持ち物</string>
+    <string name="minimap">マップ表示</string>
+</resources>

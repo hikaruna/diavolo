@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+
+/.idea/*
+!/.idea/gradle.xml
+!/.idea/.name
+/*.iml
+
+/build
+
+Thumbs.db
+.DS_Store
+*.apk
+*.ap_

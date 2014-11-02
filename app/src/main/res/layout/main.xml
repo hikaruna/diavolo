@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <SurfaceView
+        android:id="@+id/SurfaceView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    <LinearLayout
+        android:id="@+id/controlpanel"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <Button
+          android:layout_width="fill_parent"
+          android:layout_height="0dip"
+          android:layout_weight="1"
+          android:id="@+id/button_shoot"
+          android:text="@string/shoot">
+        </Button>
+        <Button
+          android:layout_width="fill_parent"
+          android:layout_height="0dip"
+          android:layout_weight="1"
+          android:id="@+id/button_item"
+          android:text="@string/item">
+        </Button>
+        <Button
+          android:layout_width="fill_parent"
+          android:layout_height="0dip"
+          android:layout_weight="1"
+          android:id="@+id/button_minimap"
+          android:text="@string/minimap">
+        </Button>
+    </LinearLayout>
+</TableLayout>
